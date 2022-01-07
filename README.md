@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MordenWebDev
 - 👀 I’m interested in learning WebDevelopment
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to learn and become frontEnd Developer / UI Desiner
 - 📫 How to reach me  mordenwebdeveloper@gmail.com
 
