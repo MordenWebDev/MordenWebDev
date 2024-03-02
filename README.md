@@ -8,11 +8,16 @@
 
 <h2 align="left">About me</h2>
 
+<div align="left">
 ###
 
 <p align="left">- 🌐 Website: https://vigneswaran.netlify.app/<br>- 💼 LinkedIn: https://www.linkedin.com/in/vigneswaran-r-7bb7a122a/<br>- 📧 Email:    mailto:mordenwebdeveloper@gmail.com</p>
 
 ###
+</div><div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMxYWFhcG1iMjh6amFjbHZzMG1ubXkwNWF3cHJyZzIyOXptbWYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+</div>
+
 
 <h2 align="left"># 💻 Tech Stack:</h2>
 
@@ -63,8 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MordenWebDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMxYWFhcG1iMjh6amFjbHZzMG1ubXkwNWF3cHJyZzIyOXptbWYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-</div>
+
 
 ###
