@@ -63,12 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MordenWebDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MordenWebDev/MordenWebDev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMxYWFhcG1iMjh6amFjbHZzMG1ubXkwNWF3cHJyZzIyOXptbWYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
