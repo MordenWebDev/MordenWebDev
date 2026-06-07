@@ -11,7 +11,7 @@
 <div align="left">
 ###
 
-<p align="left">- 🌐 Website: https://vigneswaran.netlify.app/<br>- 💼 LinkedIn: https://www.linkedin.com/in/vigneswaran-r-7bb7a122a/<br>- 📧 Email:    mailto:mordenwebdeveloper@gmail.com</p>
+<p align="left">- 🌐 Website: https://vigneswarandev.com <br>- 💼 LinkedIn: https://www.linkedin.com/in/vigneswaran-r-7bb7a122a/<br>- 📧 Email:    mailto:mordenwebdeveloper@gmail.com</p>
 
 ###
 </div><div align="right">
